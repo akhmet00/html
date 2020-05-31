@@ -1,0 +1,522 @@
+/*=styles=*/
+
+
+
+.logologo{
+position:absolute;
+width:15%;
+top:37px;
+left:5%;
+}
+
+.logotip {
+    width: 900px;
+    height: 0px;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    overflow:none;
+}
+
+
+
+
+.background-image {
+width:100%;
+z-index: 1;
+}
+
+#wrapper {
+    width: 1000px;
+    margin: 0 auto;
+    background: #fff;
+    position: relative;
+}
+
+
+html, body, h1, h2, h3, h4, h5, h6, p, a, div, ul, li, blockquote {
+    margin: 0;
+    padding: 0;
+    font-family: 'BebasNeue Bold', sans-serif;
+    font-size: 105%;
+    font-weight: 400;
+    color: #666;
+}
+
+
+.ghost{
+ position: absolute;
+  left:56.8%;
+  top:30%;
+  width:0%;
+  font-size:150%;
+}
+
+
+.ghostgranta{
+ position: absolute;
+  left:72.8%;
+  top:30%;
+  width:0%;
+  font-size:150%;
+}
+.ghostvesta{
+ position: absolute;
+  left:15.3%;
+  top:30%;
+  width:0%;
+  font-size:150%;
+}
+
+.ghostx-ray{
+ position: absolute;
+  left:68.8%;
+  top:39%;
+  width:0%;
+  font-size:150%;
+}
+
+
+
+
+
+#text {
+	background-color:#f2f0fc;
+}
+
+
+.pages {
+
+  position: absolute;
+    bottom: 0px;
+    padding: 0px;
+    left:-25%;
+       	
+}
+
+.pages2 {
+position:absolute;
+ margin-bottom:35px;
+ bottom: 0px;
+   padding: 0px;
+    left:-25%;  
+    
+}
+
+.pages2granta {
+position:absolute;
+ margin-bottom:35px;
+ bottom: 0px;
+   padding: 0px;
+    left:0.8%;
+  top:100%;
+    
+}
+
+.pages2xray {
+position:absolute;
+ margin-bottom:35px;
+ bottom: 0px;
+   padding: 0px;
+    left:0.8%;
+  top:97%;
+    
+}
+.pagesgranta {
+position: absolute;
+    bottom: 0px;
+    padding: 0px;
+    left:0.8%;
+  top:113%;
+}
+
+
+.pagesxray {
+position: absolute;
+    bottom: 0px;
+    padding: 0px;
+    left:0.8%;
+  top:111%;
+}
+
+.pages3 {
+position:absolute;
+ margin-bottom:35px;
+ bottom: 0px;
+   padding: 0px;
+    left:59.8%;  
+    
+}
+
+.pages4 {
+
+  position: absolute;
+    bottom: 0px;
+    padding: 0px;
+    left:59.8%;
+       	
+}
+
+
+#customer{
+font-size:130%;
+
+}
+#telephone{
+font-size:250%;
+}
+#call{
+}
+#customergranta{
+font-size:130%;
+color:white;
+}
+#telephonegranta{
+font-size:250%;
+color:white;
+}
+#callgranta{
+color:white;
+}
+
+
+
+.vk {
+width:30px;
+
+}
+.tw {
+width:30px;
+
+}
+
+.you {
+width:30px;
+}
+
+
+
+.vk:hover {
+width:30px;
+transform: rotate(25deg)
+}
+.tw:hover {
+width:30px;
+transform: rotate(25deg)
+}
+
+.you:hover {
+width:30px;
+transform: rotate(25deg)
+}
+
+.video{
+ position: absolute;
+    bottom: 0px;
+    padding: 0px;
+	top:33.5%;
+    left:5.8%;
+
+    
+}
+
+
+
+
+
+
+html, body, h1, h2, h3, h4, h5, h6, p, a, div, ul, li {
+    margin: 0;
+	padding: 0;
+	  font-family: 'BebasNeue Bold', sans-serif;
+	font-size: 105%;
+    font-weight: 400;
+	font-family: ;
+	color: #000;
+}
+h1, h2, h3, h4 {
+    text-transform: capitalize;
+    font-weight: 700;
+    padding: 40px 0 5px;
+}
+h1 {
+    font-size: 2em;
+}
+h2 {
+    font-size: 1.6em;
+}
+h3 {
+    font-size: 1.15em;
+    padding: 60px 0 5px;
+}
+h4 {
+    font-size: 1.05em;
+}
+h5{
+	font-weight: 700;
+	text-transform: capitalize;
+	font-size: 1em;
+	margin: 0 10px 10px 0;
+    padding: 0;
+	}
+p {
+    padding: 10px 0;
+    font-size: .9em;
+    line-height: 1.5em;
+    color: #666;
+}
+b {
+    font-weight: 700;
+    color: #333;
+}
+small {
+   font-size: .7em;
+}
+
+main {
+    clear: both;
+    width: 780px;
+    margin: 0px;
+    text-align:left;
+	padding-bottom: 0px;
+	padding-left:100px;
+	padding-right:100px;
+}
+main h1:first-child,
+main h2:first-child {
+    padding-top: 0;
+}
+main li,
+main ul {
+    padding: 10px 0;
+    font-size: .9em;
+    line-height: 1.5em;
+    color: #666;
+}
+main li {
+    margin: 0 0 0 25px;
+}
+html {
+    background: #181714;
+}
+
+
+/*=header/nav=*/ 
+
+.logo {
+    width: 20%;
+    background:no-repeat;
+    position: absolute;
+    top: 34px;
+    left: 15px;
+}
+
+header {
+    width: 780px;
+	margin: 0px;
+    text-align:left;
+	padding-bottom: 0px;
+	padding-left:100px;
+	padding-right:100px;
+    position: ;
+    background: #fff;
+	z-index:1;
+}
+
+nav {
+    width: 900px;
+    height: 100px;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    overflow:none;
+}
+nav ul {
+        width: 656px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+	padding:0px;
+	padding-bottom:25px;
+
+}
+nav ul li {
+    float:left;
+    list-style: none;
+	margin:6px;
+	padding:5px;
+
+}
+
+
+nav ul li:last-child {
+    border-right: none;
+}
+nav ul li a:link,
+nav ul li a:visited {
+    width: 140px;
+	margin:-12px;
+    padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 5px;
+	padding-bottom:5px;
+    color: #fff;
+    display: inline;
+    background-color: #67738a;
+    font-size: .8em;
+    
+    text-decoration: none;
+}
+nav ul li:hover a,
+nav ul li:active a {
+    background-color: #666;
+    transition: background .75s
+}
+
+
+nav ul li a.current {
+    background-color: #666;
+    cursor: default;
+	
+}
+footer {
+    background: #f0f0f0;
+}
+footer .columnWrapper {
+    width: 100%;
+    padding:5px;
+    overflow:hidden;
+	margin-top:0;
+	margin-bottom:0;
+	margin-left:100px;
+	margin-right:100px;
+	
+}
+footer .column {
+    width: 160px;
+    padding: -50px;
+    border-right: 2px solid #888;
+    float: left;
+}
+footer .column:last-child {
+    border-right: none;
+}
+footer h4 {
+    padding: 15px 0 7px;
+    color: black;
+    text-transform: capitalize;
+}
+footer .address {
+    font-size: .75em;
+    line-height: 1.6em;
+    color: black;
+}
+footer a:link, footer a:visited {
+    line-height: 1.6em;
+    color: inherit;
+}
+footer a:hover, footer a:active {
+    color: inherit;
+    transition: color .5s
+}
+footer .copyrightText {
+    padding: 40px 0 10px;
+    text-align: center;
+    font-size: .7em;
+    color: black;
+}
+}
+#slider{
+float:right;
+}
+#text{
+    padding:15px;
+    margin:15px;
+    }
+
+
+
+@font-face {
+font-family: "BebasNeue Regular";  
+src: url("../fonts/BebasNeue Regular.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal;
+ }
+
+@font-face {
+font-family: "BebasNeue Bold";  
+src: url("../fonts/BebasNeue Bold.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal;
+ }
+
+@font-face {
+font-family: "BebasNeue Book";  
+src: url("../fonts/BebasNeue Book.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal;
+ }
+
+@font-face {
+font-family: "BebasNeue Light";  
+src: url("../fonts/BebasNeue Light.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal;
+ }
+
+@font-face {
+font-family: "BebasNeue Thin";  
+src: url("../fonts/BebasNeue Thin.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal;
+ }
+
+
+.loaderArea {
+  background: #000;
+  overflow: hidden;
+  position: fixed;
+  left: 0;
+  top: 0;
+  right:0;
+  bottom:0;
+  z-index: 100000;
+}
+
+
+ 
+
+ 
+.ghost-button-semi-transparent {
+  display: inline-block;
+  width: 300px;
+  padding: 12px;
+  margin-bottom:20px;
+  color: #fff;
+  border: 2px solid #fff;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+  transition: background-color 0.2s ease-out,
+              border-color 0.2s ease-out;
+   
+}
+.ghost-button-semi-transparent:hover,
+.ghost-button-semi-transparent:active {
+  background-color: #fff; 
+  background-color: rgba(255, 255, 255, 0.4);
+  border-color: #fff; 
+  border-color: rgba(255, 255, 255, 0.4);
+  transition: background-color 0.3s ease-in,
+              border-color 0.3s ease-in;
+}
+ 
+
+ 
+ 
+
+ 
+
+   
+
+
